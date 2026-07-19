@@ -1,0 +1,15 @@
+{
+	"name": "azdbdatafac001",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9dd04dc5-3cdb-481a-9ae3-367be81ceb3c",
+		"tenantId": "c7ff9d44-54f0-4209-b2f0-26d0dbbd1a38"
+	}
+}
